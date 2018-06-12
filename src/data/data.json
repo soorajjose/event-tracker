@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "square": "sooraj"
+  },
+  {
+    "id": 2,
+    "square ": 3
+  },
+  {
+    "id ": 3,
+    "square ": 9
+  },
+  {
+    "id ": 4,
+    "square ": 16
+  },
+  {
+    "id ": 5,
+    "square ": 25
+  },
+  {
+    "Id ": 6,
+    "square ": 36
+  },
+  {
+    "Id ": 7,
+    "square ": 49
+  },
+  {
+    "Id ": 8,
+    "square ": 64
+  },
+  {
+    "Id ": 9,
+    "square ": 81
+  },
+  {
+    "Id ": 10,
+    "square ": 100
+  }
+]
